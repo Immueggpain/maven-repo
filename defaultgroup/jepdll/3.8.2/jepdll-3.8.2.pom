@@ -3,7 +3,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>defaultgroup</groupId>
-  <artifactId>jep</artifactId>
+  <artifactId>jepdll</artifactId>
   <version>3.8.2</version>
+  <packaging>dll</packaging>
   <description>POM was created from install:install-file</description>
 </project>
